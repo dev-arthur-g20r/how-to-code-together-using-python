@@ -1,0 +1,4 @@
+
+
+2017-12-04 11:23:52.445701
+75 / 2 = 37 remainder 175 / 3 = 25 remainder 075 / 4 = 18 remainder 375 / 5 = 15 remainder 075 / 6 = 12 remainder 375 / 7 = 10 remainder 575 / 8 = 9 remainder 375 / 9 = 8 remainder 375 / 10 = 7 remainder 575 / 11 = 6 remainder 975 / 12 = 6 remainder 375 / 13 = 5 remainder 1075 / 14 = 5 remainder 575 / 15 = 5 remainder 075 / 16 = 4 remainder 1175 / 17 = 4 remainder 775 / 18 = 4 remainder 375 / 19 = 3 remainder 1875 / 20 = 3 remainder 1575 / 21 = 3 remainder 1275 / 22 = 3 remainder 975 / 23 = 3 remainder 675 / 24 = 3 remainder 375 / 25 = 3 remainder 075 / 26 = 2 remainder 2375 / 27 = 2 remainder 2175 / 28 = 2 remainder 1975 / 29 = 2 remainder 1775 / 30 = 2 remainder 1575 / 31 = 2 remainder 1375 / 32 = 2 remainder 1175 / 33 = 2 remainder 975 / 34 = 2 remainder 775 / 35 = 2 remainder 575 / 36 = 2 remainder 375 / 37 = 2 remainder 1
